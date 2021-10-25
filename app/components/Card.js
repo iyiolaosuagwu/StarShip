@@ -74,7 +74,8 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
     },
     decription: {
-        marginTop: 7
+        marginTop: 7,
+        height: 60
     },
     moreBtn: {
         backgroundColor: colors.gray,
